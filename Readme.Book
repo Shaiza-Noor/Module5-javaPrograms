@@ -1,0 +1,8 @@
+##Overview
+This project demonstrates the concept of Object-Oriented Programming (OOP) in Java by creating a Book class and a main application called BookApp.
+The program defines book details like title, author, and publication year, and displays the information in a formatted way using a method.
+Features
+Uses a constructor to initialize book attributes
+Implements a displayBookInfo() method to print book details
+Demonstrates object creation and method calling in Java
+Prints book information clearly with line breaks between entries
